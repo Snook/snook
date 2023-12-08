@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I have been a PHP developer since 1999. I started programming as a hobby centered around creating and managing various gaming community websites, transitioned to full time developer in 2011.
+My passion for web development began in 1999, fueled by a desire to create and manage dynamic online spaces. Starting as a hobbyist, I immersed myself in the world of PHP, building and maintaining websites for various gaming communities. This hands-on experience provided a solid foundation in the language and its capabilities.
 
-- 🌱 I’m currently learning Git. I primarily used SVN but have dabbled with Github over the years. As of Aug 2023, I have migrated our company's codebase from SVN to Github.
+In 2011, my passion turned into a full-fledged career. I transitioned from dedicated hobbyist to professional developer, leveraging my accumulated knowledge and experience to build complex web applications.
